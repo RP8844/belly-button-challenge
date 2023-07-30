@@ -1,4 +1,4 @@
-# belly-button-challenge1
+# belly-button-challenge
 Module 14: JavaScript Visualizations
 
 # Belly Button Biodiversity Dashboard 
